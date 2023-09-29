@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\bin\Debug\net7.0\c# e py.exe
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\bin\Debug\net7.0\c# e py.deps.json
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\bin\Debug\net7.0\c# e py.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\bin\Debug\net7.0\c# e py.dll
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\bin\Debug\net7.0\c# e py.pdb
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.dll
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\refint\c# e py.dll
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.pdb
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\c# e py.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\programação\c# e py\obj\Debug\net7.0\ref\c# e py.dll
