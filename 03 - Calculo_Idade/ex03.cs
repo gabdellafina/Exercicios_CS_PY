@@ -3,7 +3,7 @@
 
 using System;
 
-class Program {
+class Ex03 {
     static void Main (string[] args) {
         int ano_nasc, ano_atual, idade;
 

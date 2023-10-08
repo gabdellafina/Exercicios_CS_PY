@@ -2,7 +2,7 @@
 
 using System;
 
-class Program {
+class Ex02 {
     static void Main (string[] args) {
         double n1, n2, r;
 

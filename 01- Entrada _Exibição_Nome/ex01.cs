@@ -2,7 +2,7 @@
 /// Desenvolva um programa que permita a entrada do nome do usuário e exiba na tela.
 /// </summary>
 
-class program {
+class Ex01 {
     static void Main (string[] args) {
         string nome;
 

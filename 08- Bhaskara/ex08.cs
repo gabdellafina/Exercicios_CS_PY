@@ -3,7 +3,7 @@
 
 using System;
 
-class Program {
+class Ex08 {
 
 public static void Main (string[] args) {
 
